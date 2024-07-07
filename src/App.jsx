@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.css'
+import 'style.css'
 import logo from '../assets/images/logo.svg'
 
 const App = () => {
